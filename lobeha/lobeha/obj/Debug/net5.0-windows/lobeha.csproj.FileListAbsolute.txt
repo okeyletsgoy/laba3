@@ -1,0 +1,17 @@
+C:\Users\tropo\source\repos\lobeha\lobeha\bin\Debug\net5.0-windows\lobeha.exe
+C:\Users\tropo\source\repos\lobeha\lobeha\bin\Debug\net5.0-windows\lobeha.deps.json
+C:\Users\tropo\source\repos\lobeha\lobeha\bin\Debug\net5.0-windows\lobeha.runtimeconfig.json
+C:\Users\tropo\source\repos\lobeha\lobeha\bin\Debug\net5.0-windows\lobeha.runtimeconfig.dev.json
+C:\Users\tropo\source\repos\lobeha\lobeha\bin\Debug\net5.0-windows\lobeha.dll
+C:\Users\tropo\source\repos\lobeha\lobeha\bin\Debug\net5.0-windows\ref\lobeha.dll
+C:\Users\tropo\source\repos\lobeha\lobeha\bin\Debug\net5.0-windows\lobeha.pdb
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.Form1.resources
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.csproj.GenerateResource.cache
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.AssemblyInfoInputs.cache
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.AssemblyInfo.cs
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.csproj.CoreCompileInputs.cache
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.dll
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\ref\lobeha.dll
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.pdb
+C:\Users\tropo\source\repos\lobeha\lobeha\obj\Debug\net5.0-windows\lobeha.genruntimeconfig.cache
